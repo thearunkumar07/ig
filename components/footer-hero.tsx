@@ -91,7 +91,7 @@ export default function FooterHero() {
               © {new Date().getFullYear()} Free Invoice Generator. All rights reserved Franchisebhoomi. 
             </p>
             <p className="text-gray-600 text-sm flex items-center">
-              Made with <Heart className="h-4 w-4 text-red-500 mx-1" /> for Franchises and small businesses
+              Made in Tamil Nadu with <Heart className="h-4 w-4 text-red-500 mx-1" /> for Franchises and small businesses
             </p>
           </div>
         </div>
