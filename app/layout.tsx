@@ -5,8 +5,8 @@ import { ThemeProvider } from "@/components/theme-provider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Free Invoice Generator | FranchiseBhoomi",
-  description: "Generate professional invoices instantly with FranchiseBhoomi's free invoice generator.",
+  title: "Free online Invoice Generator: Create an Invoice in Minutes",
+  description: "Generate professional invoices instantly with FranchiseBhoomi's free online invoice generator.",
   keywords: [
     'free invoice generator',
     'free invoice maker',
